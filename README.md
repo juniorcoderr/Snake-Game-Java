@@ -64,10 +64,10 @@ SnakeGame/
 
 ## 🧩 Future Enhancements
 
-🔹 Add **scoreboard & high scores** 🏅
-🔹 Add **difficulty levels** (Easy / Medium / Hard)
-🔹 Add **background music & sound effects** 🎵
-🔹 Make it **full-screen compatible**
+🔹 Add **scoreboard & high scores** 🏅  
+🔹 Add **difficulty levels** (Easy / Medium / Hard)  
+🔹 Add **background music & sound effects** 🎵  
+🔹 Make it **full-screen compatible**  
 
 ---
 
