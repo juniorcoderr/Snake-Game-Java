@@ -7,13 +7,13 @@ This project recreates the nostalgic snake game where you control the snake, eat
 
 ## 🚀 Features
 
-✅ **Classic Gameplay** – Control the snake using arrow keys
-✅ **Smooth Animations** – Powered by **Java Swing** and **AWT**
-✅ **Dynamic Apple Spawning** – Random apple generation
-✅ **Self-Collision Detection** – Game ends when the snake hits itself
-✅ **Boundary Collision** – Walls are deadly! 🧱
-✅ **Game Over Screen** – Displays when the snake dies
-✅ **Lightweight & Responsive** – Works on any Java-supported environment
+✅ **Classic Gameplay** – Control the snake using arrow keys  
+✅ **Smooth Animations** – Powered by **Java Swing** and **AWT**  
+✅ **Dynamic Apple Spawning** – Random apple generation  
+✅ **Self-Collision Detection** – Game ends when the snake hits itself  
+✅ **Boundary Collision** – Walls are deadly! 🧱  
+✅ **Game Over Screen** – Displays when the snake dies  
+✅ **Lightweight & Responsive** – Works on any Java-supported environment  
 
 ---
 
